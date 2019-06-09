@@ -1,0 +1,22 @@
+{
+  "name": "singly-linked-list-in-js",
+  "version": "1.0.0",
+  "description": "Singly Linked List in JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "SinglyLinkedList",
+    "LinkedList in JavaScript",
+    "DataStructure",
+    "Data structure in js"
+  ],
+  "author": "Bikrm Kishore Kundu",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
